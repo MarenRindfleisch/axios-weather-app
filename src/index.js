@@ -10,7 +10,7 @@ root.render(
     <h1>Weather App</h1>
     <App />
     <footer>
-      his project was coded by{" "}
+      This project was coded by{" "}
       <a
         href="https://www.linkedin.com/in/marenrindfleisch/"
         target="_blank"
