@@ -9,6 +9,24 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <footer>
+      his project was coded by{" "}
+      <a
+        href="https://www.linkedin.com/in/marenrindfleisch/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Maren Rindfleisch
+      </a>{" "}
+      and is{" "}
+      <a
+        href="https://github.com/MarenRindfleisch/axios-weather-app"
+        target="_blank"
+        rel="noreferrer"
+      >
+        open-sourced
+      </a>
+    </footer>
   </React.StrictMode>
 );
 
